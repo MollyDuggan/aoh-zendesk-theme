@@ -3,3 +3,4 @@ style.css.map
 node_modules/
 package-lock.json
 .zat
+.DS_STORE
