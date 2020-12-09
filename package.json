@@ -1,8 +1,8 @@
 {
   "name": "aoh-zendesk-theme",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "All of the House theme for Zendesk Guide",
-  "homepage": "https://help.allofthehouse.com/hc/en-us",
+  "homepage": "https://help.gettaters.com/hc/en-us",
   "repository": "github.com:MollyDuggan/aoh-zendesk-theme.git",
   "license": "Apache-2.0",
   "scripts": {
